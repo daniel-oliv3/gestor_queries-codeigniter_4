@@ -8,12 +8,12 @@
 - PHP 
 - MySQL 
 - Postman
+    - Site: https://www.postman.com/
 - Laragon
     - Site: https://laragon.org/download/index.html
 - Codeigniter 4
     - Site: https://www.codeigniter.com/
     - Downloads: https://www.codeigniter.com/download
-    - Site: https://www.postman.com/
 - HeidiSQL
     - Site: https://www.heidisql.com/
 - Bootstrap
