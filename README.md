@@ -49,6 +49,9 @@ php spark make:controller Main
 
 ### 2 - LAYOUT BASE DA APLICAÇÃO
 
+- Google fonts
+    - Site: https://fonts.google.com/
+
 - URLs
     - Localhost: http://localhost/gestor_queries-codeigniter_4/code-app_02/public/
 
