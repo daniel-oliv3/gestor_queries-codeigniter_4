@@ -37,12 +37,23 @@
 php spark make:controller Main
 ```
 
+- URLs
+    - Localhost: http://localhost/gestor_queries-codeigniter_4/code-app_01/public/
+
 - Exemplo:
     - code-app_01
 
 
 
 
+
+### 2 - LAYOUT BASE DA APLICAÇÃO
+
+- URLs
+    - Localhost: http://localhost/gestor_queries-codeigniter_4/code-app_02/public/
+
+- Exemplo:
+    - code-app_02
 
 
 
