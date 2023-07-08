@@ -61,10 +61,55 @@ php spark make:controller Main
 
 
 
+### 3 - REPOSITÓRIO NO GITHUB
 
+- URLs
+    - Localhost: http://localhost/gestor_queries-codeigniter_4/code-app_03/public/
 
+**Github**
 
+```
+git init
+```
 
+```
+git config --global user.name "Seu Nome"
+```
+
+```
+git config --global user.email "Exemplo.@gmail.com"
+```
+
+```
+git status
+```
+
+```
+git add .
+```
+
+```
+git commit -m "meu commit"
+```
+
+- Criar um novo repositorio no site do github
+- Site: https://github.com/new
+
+**…or push an existing repository from the command line**
+```
+git remote add origin https://github.com/daniel-oliv3/gestor_queries-codeigniter_4.git
+```
+
+```
+git branch -M main
+```
+
+```
+git push -u origin main
+```
+
+- Exemplo:
+    - code-app_03
 
 
 
