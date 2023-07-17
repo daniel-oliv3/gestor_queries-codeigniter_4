@@ -3,7 +3,7 @@
 ##
 
 <p align="center">
-  <img alt="...." src="../gestor_queries-codeigniter_4/assets/pngwing.png" width="70%">
+  <img alt="...." src="../gestor_queries-codeigniter_4/assets/pngwing.png" width="100%">
 </p>
 
 
