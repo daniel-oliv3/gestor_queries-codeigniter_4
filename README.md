@@ -172,7 +172,9 @@ https://code.jquery.com/jquery-3.7.0.min.js
     - code-app_05
 
 
+### 6 - GESTOR DE QUERIES #06 CONTINUAÇÃO DA PÁGINA INCIAL DA APLICAÇÃO
 
-
+- Exemplo:
+    - code-app_06
 
 
