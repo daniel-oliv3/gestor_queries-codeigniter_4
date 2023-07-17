@@ -2,6 +2,10 @@
 ### GESTOR DE QUERIES
 ##
 
+<p align="center">
+  <img alt="...." src="../gestor_queries-codeigniter_4/assets/pngwing.com.png" width="70%">
+</p>
+
 
 ### 1 - INTRODUÇÃO
 
