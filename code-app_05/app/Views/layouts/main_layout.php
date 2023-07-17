@@ -11,6 +11,10 @@
     <link href="https://fonts.googleapis.com/css2?family=Titillium+Web:wght@300;700&display=swap" rel="stylesheet">
     <!-- bootstrap -->
     <link rel="stylesheet" href="<?= base_url('assets/bootstrap/bootstrap.min.css') ?>">
+    <!-- Datatables  -->
+    <link rel="stylesheet" href="<?= base_url('assets/datatables/datatables.min.css') ?>">
+    <!-- JQuery -->
+    <script src="<?= base_url('assets/datatables/jquery.min.js') ?>"></script>
     <!-- fontawesome -->
     <link rel="stylesheet" href="<?= base_url('assets/fontawesome/css/all.min.css') ?>">
     <!-- custom css -->
@@ -24,6 +28,8 @@
 
     <!-- bootstrap Js -->
     <script src="<?= base_url('assets/bootstrap/bootstrap.bundle.min.js') ?>"></script>
+    <!-- Datatables  -->
+    <scripts src="<?= base_url('assets/datatables/datatables.min.js') ?>"></script> 
     <!-- custom Js -->
     <script src="<?= base_url('assets/js/app.js') ?>"></script>
 </body>
@@ -33,7 +39,7 @@
     Autor: Daniel Oliveira
     Email: danieloliveira.webmaster@gmail.com
     Manaus/Amazonas/Brasil
-    06/07/2023
+    17/07/2023
 -->
 
 

@@ -10,7 +10,8 @@ class Main extends BaseController
     {
         //
         // return view('home');
-        return view('login_frm');
+        // return view('login_frm');
+        return view('main');
     }
 
 

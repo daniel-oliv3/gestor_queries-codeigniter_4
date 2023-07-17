@@ -5,7 +5,7 @@
 
 <section class="container mt-5">
     <div class="row justify-content-center">
-        <div class="col-md-4 col-sm-6 col-8 p-5 text-center bg-secondary">
+        <div class="col-md-4 col-sm-6 col-8 p-5 text-center bg-secondary rounded shadow">
             
             <?= form_open('main/login_submit') ?>
 

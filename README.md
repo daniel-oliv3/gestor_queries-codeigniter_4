@@ -25,7 +25,7 @@
 - FontAwesome
     - Site: https://fontawesome.com/
     - Downloads: https://fontawesome.com/download
-    - Free Icons: https://fontawesome.com/search?m=free&o=r
+    - Free Icons: https://fsontawesome.com/search?m=free&o=r
 
 
 
@@ -120,6 +120,53 @@ git push -u origin main
 
 
 ### 5 - DESENVOLVIMENTO DA PÁGINA INCIAL DA APLICAÇÃO
+
+```html
+<!--
+    - campo para pesquisa (button)
+    - um select com os varios projetos
+    - um botão para adicionar a nova query
+
+    tabela com as queries
+
+    cada query
+        - query sql
+        - nome
+        - tags de pesquisa
+        - projeto
+        - criado em
+        - atualizado em
+ -->
+```
+
+**DataTables**
+
+- Plugin para criação de tabelas
+    - Site: https://datatables.net/
+    - Downloads: https://datatables.net/download/
+
+
+*The latest iteration of the ever popular Bootstrap framework.*
+
+- Bootstrap 5
+
+```txt
+https://cdn.datatables.net/v/bs5/dt-1.13.5/datatables.min.css
+ 
+https://cdn.datatables.net/v/bs5/dt-1.13.5/datatables.min.js
+```
+
+**JQuery CDN**
+
+- JQuery
+    - Site: https://releases.jquery.com/
+
+- Version: Minifield
+
+
+```txt
+https://code.jquery.com/jquery-3.7.0.min.js
+```
 
 - Exemplo:
     - code-app_05
