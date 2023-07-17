@@ -118,9 +118,10 @@ git push -u origin main
     - code-app_04
 
 
+### 5 - DESENVOLVIMENTO DA PÁGINA INCIAL DA APLICAÇÃO
 
-
-
+- Exemplo:
+    - code-app_05
 
 
 
