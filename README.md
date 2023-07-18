@@ -178,3 +178,12 @@ https://code.jquery.com/jquery-3.7.0.min.js
     - code-app_06
 
 
+### 7 DATATABLES
+
+- Exemplo:
+    - code-app_07
+
+
+
+
+
