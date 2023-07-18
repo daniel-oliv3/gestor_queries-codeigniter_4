@@ -21,11 +21,12 @@
     <link rel="stylesheet" href="<?= base_url('assets/css/app.css') ?>">
 </head>
 <body>
-	
-	<?= $this->renderSection('content') ?>
-
-
-
+    
+    <?= $this->renderSection('content') ?>
+    
+    
+    
+    
     <!-- bootstrap Js -->
     <script src="<?= base_url('assets/bootstrap/bootstrap.bundle.min.js') ?>"></script>
     <!-- Datatables  -->
@@ -39,7 +40,7 @@
     Autor: Daniel Oliveira
     Email: danieloliveira.webmaster@gmail.com
     Manaus/Amazonas/Brasil
-    17/07/2023
+    18/07/2023
 -->
 
 

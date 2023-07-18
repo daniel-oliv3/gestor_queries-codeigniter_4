@@ -27,7 +27,14 @@
         </div>
     </div>
 
-    <!-- Tabela dos resultados -->
+    
+    
+    <?= form_close() ?>
+</nav>
+
+
+<!-- Tabela dos resultados -->
+<div class="container-fluid">
     <div class="row mt-5">
         <div class="col">
             <table class="table table-striped" id="table-results">
@@ -40,6 +47,7 @@
                 </thead>
                 <tbody>
                     <!-- ciclo para apresentar as queries -->
+                    <?php for($i = 0; $i < 100; $i++) : ?>
                     <tr>
                         <td>Projeto 1</td>
                         <td>Query 1</td>
@@ -49,33 +57,20 @@
                         </td>
                     </tr>
 
-                    <tr>
-                        <td>Projeto 2</td>
-                        <td>Query 2</td>
-                        <td>
-                            <a href="#" class="btn btn-primary"><i class="fa-solid fa-pen-to-square me-3"></i> Editar</a>
-                            <a href="#" class="btn btn-danger"><i class="fa-solid fa-trash me-3"></i> Excluir</a>
-                        </td>
-                    </tr>
-
-                    <tr>
-                        <td>Projeto 3</td>
-                        <td>Query 3</td>
-                        <td>
-                            <a href="#" class="btn btn-primary"><i class="fa-solid fa-pen-to-square me-3"></i> Editar</a>
-                            <a href="#" class="btn btn-danger"><i class="fa-solid fa-trash me-3"></i> Excluir</a>
-                        </td>
-                    </tr>
+                    <?php endfor; ?>
+                    
+    
                 </tbody>
             </table>
         </div>
     </div>
-    
-    <p class="mt-5">Não foram encontrados resultados</p> 
+
+    <p class="mt-5 text-center">Não foram encontrados resultados</p> 
+</div>
 
 
-    <?= form_close() ?>
-</nav>
+
+
 
 
 <?= $this->endSection() ?>
