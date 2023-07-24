@@ -178,35 +178,12 @@ https://code.jquery.com/jquery-3.7.0.min.js
     - code-app_06
 
 
-### 7 - DATATABLES
+### 7 DATATABLES
 
 - Exemplo:
     - code-app_07
 
 
 
-### 8 - FROMULÁRIO PARA NOVA QUERY
 
-**DataList**
-
-- Datalist
-    - Site Mozilla: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/datalist
-
-```html
-<!-- exemplo datalist -->
-
-<input list="ice-cream-flavors" id="ice-cream-choice" name="ice-cream-choice">
-
-<datalist id="ice-cream-flavors">
-    <option value="Chocolate">
-    <option value="Coconut">
-    <option value="Mint">
-    <option value="Strawberry">
-    <option value="Vanilla">
-</datalist>
-
-```
-
-- Exemplo:
-    - code-app_08
 
