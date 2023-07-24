@@ -216,6 +216,41 @@ https://code.jquery.com/jquery-3.7.0.min.js
 
 ### 9 - BASE DE DADOS COM MIGRATIONS
 
+**Base de Dados**
+
+- Criação da base de dados 
+
+**Migrations**
+
+- Criação da migration Users, dentro do fichaiero `DataBase/Migrations` 
+
+```
+php spark make:migration Users
+```
+
+- Criando a migration Queries
+
+```
+php spark make:migration Queries
+```
+
+- Migrate (update)
+
+```
+php spark migrate
+```
+
+- how to rollback migration in codeigniter 4
+
+```
+php spark migrate:rollback
+```
+
+- Migrate (update)
+
+```
+php spark migrate
+```
 
 - Exemplo:
     - code-app_09

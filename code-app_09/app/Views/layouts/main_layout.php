@@ -27,12 +27,12 @@
     
     
     
+    <!-- custom Js -->
+    <script src="<?= base_url('assets/js/app.js') ?>"></script>
     <!-- bootstrap Js -->
     <script src="<?= base_url('assets/bootstrap/bootstrap.bundle.min.js') ?>"></script>
     <!-- Datatables  -->
     <scripts src="<?= base_url('assets/datatables/datatables.min.js') ?>"></script> 
-    <!-- custom Js -->
-    <script src="<?= base_url('assets/js/app.js') ?>"></script>
 </body>
 </html>
 
