@@ -1,0 +1,19 @@
+CRITICAL - 2023-07-11 12:58:28 --> Invalid file: "login_frm.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login_frm.php')
+ 2 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('login_frm', [], true)
+ 3 APPPATH\Controllers\Main.php(13): view('login_frm')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Main->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-11 13:20:00 --> Call to undefined function form_open()
+in APPPATH\Views\login_frm.php on line 10.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('login_frm', [], true)
+ 4 APPPATH\Controllers\Main.php(13): view('login_frm')
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Main->index()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
