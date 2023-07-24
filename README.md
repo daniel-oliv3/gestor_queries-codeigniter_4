@@ -186,7 +186,7 @@ https://code.jquery.com/jquery-3.7.0.min.js
 
 
 
-### 8 - FROMULÁRIO PARA NOVA QUERY
+### 8 - FORMULÁRIO PARA NOVA QUERY
 
 **DataList**
 
@@ -210,3 +210,53 @@ https://code.jquery.com/jquery-3.7.0.min.js
 
 - Exemplo:
     - code-app_08
+
+
+
+
+### 9 - BASE DE DADOS COM MIGRATIONS
+
+
+- Exemplo:
+    - code-app_09
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
