@@ -258,6 +258,12 @@ php spark migrate
 
 
 
+### 10 - ARRUMAÇÕES NO LAYOUT
+
+
+- Exemplo:
+    - code-app_10
+
 
 
 
